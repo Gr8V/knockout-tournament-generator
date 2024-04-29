@@ -12,3 +12,4 @@ c:\My stuff\Visual Studio Code\C#\knockout-tournament-generator\obj\Debug\net8.0
 c:\My stuff\Visual Studio Code\C#\knockout-tournament-generator\obj\Debug\net8.0\knockout-tournament-generator.pdb
 c:\My stuff\Visual Studio Code\C#\knockout-tournament-generator\obj\Debug\net8.0\knockout-tournament-generator.genruntimeconfig.cache
 c:\My stuff\Visual Studio Code\C#\knockout-tournament-generator\obj\Debug\net8.0\ref\knockout-tournament-generator.dll
+c:\My stuff\Visual Studio Code\C#\knockout-tournament-generator\obj\Debug\net8.0\knockout-tournament-generator.sourcelink.json

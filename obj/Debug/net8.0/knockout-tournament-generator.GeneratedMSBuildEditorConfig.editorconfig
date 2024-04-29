@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = knockout_tournament_generator
-build_property.ProjectDir = c:\My stuff\Visual Studio Code\C#\knockout-tournament-generator\
+build_property.ProjectDir = C:\My stuff\Visual Studio Code\C#\knockout-tournament-generator\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

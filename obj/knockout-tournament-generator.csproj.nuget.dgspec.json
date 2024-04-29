@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\My stuff\\Visual Studio Code\\C#\\knockout-tournament-generator\\knockout-tournament-generator.csproj": {}
+    "C:\\My stuff\\Visual Studio Code\\C#\\knockout-tournament-generator\\knockout-tournament-generator.csproj": {}
   },
   "projects": {
-    "c:\\My stuff\\Visual Studio Code\\C#\\knockout-tournament-generator\\knockout-tournament-generator.csproj": {
+    "C:\\My stuff\\Visual Studio Code\\C#\\knockout-tournament-generator\\knockout-tournament-generator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\My stuff\\Visual Studio Code\\C#\\knockout-tournament-generator\\knockout-tournament-generator.csproj",
+        "projectUniqueName": "C:\\My stuff\\Visual Studio Code\\C#\\knockout-tournament-generator\\knockout-tournament-generator.csproj",
         "projectName": "knockout-tournament-generator",
-        "projectPath": "c:\\My stuff\\Visual Studio Code\\C#\\knockout-tournament-generator\\knockout-tournament-generator.csproj",
+        "projectPath": "C:\\My stuff\\Visual Studio Code\\C#\\knockout-tournament-generator\\knockout-tournament-generator.csproj",
         "packagesPath": "C:\\Users\\vansh\\.nuget\\packages\\",
-        "outputPath": "c:\\My stuff\\Visual Studio Code\\C#\\knockout-tournament-generator\\obj\\",
+        "outputPath": "C:\\My stuff\\Visual Studio Code\\C#\\knockout-tournament-generator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vansh\\AppData\\Roaming\\NuGet\\NuGet.Config",
