@@ -9,6 +9,7 @@ class KnockoutTournament{
     public static string[] LowerHalf = [];
     public static List<string> isByeInUpper = [];
     public static List<string> isByeInLower = [];
+    public static List<string> Byes = isByeInUpper.Concat(isByeInLower).ToList();
     public static int NoOfByes(){
         int powerOfTwo = 1;
         while (powerOfTwo < Program.NoOfTeams)

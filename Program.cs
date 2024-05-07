@@ -1,8 +1,10 @@
-﻿using System;
+﻿#nullable disable
+using System;
 class Program{
     public static string[] teams = [];
     public static int NoOfTeams = 0;
     public static int NoOfMatches = 0;
+    public static List<string> Byes = [];
     public static void Main(string[] args)
     {
         Inputs();
@@ -23,13 +25,26 @@ class Program{
         foreach(string i in KnockoutTournament.isByeInLower){
             Console.Write(i+" ");
         }
-        
+        Console.WriteLine();
+        Byes = KnockoutTournament.isByeInUpper.Concat(KnockoutTournament.isByeInLower).ToList();
+        DisplayFixture();
         Console.ReadKey();
+    }
+
+    public static void DisplayFixture(){
+        foreach(string i in teams){
+            string byeStatus = "";
+            if (Byes[Array.IndexOf(teams, i)] == "yes")
+            {
+                byeStatus = "BYE";
+            }
+            Console.WriteLine(i+"  "+byeStatus);
+        }
     }
 
     public static void Inputs(){
         Console.Write("Enter list of teams(seprated by commas) :-  ");
-        string? rawInput =   Console.ReadLine();
+        string rawInput =   Console.ReadLine();
         teams = rawInput.Split(',');
         NoOfTeams = teams.Length;
         NoOfMatches = teams.Length-1;

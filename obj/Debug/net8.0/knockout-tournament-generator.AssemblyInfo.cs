@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("knockout-tournament-generator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcaf33beb38023c61f855ffd2864ec622b6c2ea6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c3c84dec407083517db749d142ba1f90389a8af")]
 [assembly: System.Reflection.AssemblyProductAttribute("knockout-tournament-generator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("knockout-tournament-generator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
